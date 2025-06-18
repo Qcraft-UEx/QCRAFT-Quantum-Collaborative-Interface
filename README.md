@@ -48,7 +48,7 @@
 
 ## Demonstration
 
-A demo video showing how to collaboratively design, deploy, and execute circuits is available here:  
+A demo video showing how to collaboratively design is available here:  
 🔗 [https://youtu.be/your-demo-link](https://youtu.be/your-demo-link)
 
 ## License
