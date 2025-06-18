@@ -9,7 +9,7 @@
 ![Python Versions](https://img.shields.io/badge/python-3.9%20|%203.10%20|%203.11%20|%203.12-blue.svg)  
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/Qcraft-UEx/QCRAFT-Quantum-Collaborative-Interface/blob/main/LICENSE)
 
-**QCRAFT Quantum Collaborative Interface** is a quantum circuit development platform designed for real-time collaboration. It enables multiple users to **co-edit quantum circuits synchronously** through a shared visual interface—similar to collaborative document platforms like Google Docs. This functionality is built on a custom adaptation of the **Operational Transformation (OT)** model, tailored specifically for quantum circuits.
+**QCRAFT Quantum Collaborative Interface** is a quantum circuit development platform designed for real-time collaboration. It enables multiple users to **co-edit quantum circuits synchronously** through a shared visual interface. This functionality is built on a custom adaptation of the **Operational Transformation (OT)** model, tailored specifically for quantum circuits.
 
 ## Key Features
 
